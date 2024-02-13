@@ -1,0 +1,60 @@
+body{
+    background: linear-gradient(126deg, #9347ff, #ca50ff, #c59cff);
+    color: white;
+    font-style: bold;
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    text-decoration: none;
+}
+
+img{
+    width: 150px;
+    border-radius: 100px;
+    box-shadow: 0 4px 30px rgba(35, 35, 35, 0.3);
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+button{
+    width: 350px;
+    height: 30px;
+    border-radius: 10px;
+    border: white;
+    margin: 4px;
+}
+
+button:hover{
+    background-color: rgb(204, 204, 204);
+    transition: 0.3s ease;
+    box-shadow: 0 4px 30px rgba(35, 35, 35, 0.5);
+}
+
+.name{
+    margin: 0px;
+    text-shadow: 0 4px 30px rgba(35, 35, 35, 2=1);
+}
+
+p{
+    font-size: 20px;
+    text-shadow: 0 4px 30px rgba(35, 35, 35, 2);
+}
+
+.tiktok{
+    margin-top: 5px;
+    box-shadow: 0 4px 30px rgba(35, 35, 35, 0.3);
+}
+
+.youtube{
+    box-shadow: 0 4px 30px rgba(35, 35, 35, 0.3);
+}
